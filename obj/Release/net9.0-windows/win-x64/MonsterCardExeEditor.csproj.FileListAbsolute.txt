@@ -1,0 +1,14 @@
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\bin\Release\net9.0-windows\win-x64\MonsterCardExeEditor.exe
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\bin\Release\net9.0-windows\win-x64\MonsterCardExeEditor.deps.json
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\bin\Release\net9.0-windows\win-x64\MonsterCardExeEditor.runtimeconfig.json
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\bin\Release\net9.0-windows\win-x64\MonsterCardExeEditor.dll
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\bin\Release\net9.0-windows\win-x64\MonsterCardExeEditor.pdb
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.AssemblyInfoInputs.cache
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.AssemblyInfo.cs
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.csproj.CoreCompileInputs.cache
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.dll
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\refint\MonsterCardExeEditor.dll
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.pdb
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\MonsterCardExeEditor.genruntimeconfig.cache
+C:\Users\eusbe\Pictures\monstercard\MonsterCardExeEditor\obj\Release\net9.0-windows\win-x64\ref\MonsterCardExeEditor.dll

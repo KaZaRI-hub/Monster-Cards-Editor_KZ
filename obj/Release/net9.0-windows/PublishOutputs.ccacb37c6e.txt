@@ -1,0 +1,5 @@
+C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_scale_reset\MonsterCardExeEditor.exe
+C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_scale_reset\MonsterCardExeEditor.dll
+C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_scale_reset\MonsterCardExeEditor.deps.json
+C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_scale_reset\MonsterCardExeEditor.runtimeconfig.json
+C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_scale_reset\MonsterCardExeEditor.pdb
