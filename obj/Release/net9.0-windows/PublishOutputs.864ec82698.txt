@@ -1,5 +1,0 @@
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\Monster Card Editor_KZ\MonsterCardExeEditor.exe
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\Monster Card Editor_KZ\MonsterCardExeEditor.dll
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\Monster Card Editor_KZ\MonsterCardExeEditor.deps.json
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\Monster Card Editor_KZ\MonsterCardExeEditor.runtimeconfig.json
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\Monster Card Editor_KZ\MonsterCardExeEditor.pdb

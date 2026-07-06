@@ -1,5 +1,0 @@
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_frame_mask\MonsterCardExeEditor.exe
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_frame_mask\MonsterCardExeEditor.dll
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_frame_mask\MonsterCardExeEditor.deps.json
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_frame_mask\MonsterCardExeEditor.runtimeconfig.json
-C:\Users\eusbe\OneDrive\바탕 화면\monstercard\MonsterCardExeEditor\publish_frame_mask\MonsterCardExeEditor.pdb
